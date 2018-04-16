@@ -30,7 +30,7 @@ const launchBrowser = url => {
       {
         /**
          * Google Chrome Canary is supported only at Mac and Windows
-         * Windows is already covered from previous step
+         * Windows is already covered in the previous step
          */
         darwin: open('google chrome canary'),
       },

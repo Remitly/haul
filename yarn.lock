@@ -5609,6 +5609,10 @@ pkg-dir@^2.0.0:
   dependencies:
     find-up "^2.1.0"
 
+platform-select@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/platform-select/-/platform-select-1.0.0.tgz#ca8544d92cd0ad5fe1254a8eb4613a1ec6e38c2d"
+
 plist@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/plist/-/plist-2.0.1.tgz#0a32ca9481b1c364e92e18dc55c876de9d01da8b"
